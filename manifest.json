@@ -1,0 +1,16 @@
+{
+    "name": "WEB APPLICATION",
+    "short name": "WEB_APP",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#121940",
+    "theme_color": "#970B0B ",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/IMAGES/gehu.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        }
+    ]
+}
